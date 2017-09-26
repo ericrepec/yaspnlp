@@ -1,4 +1,4 @@
-# bottie
+# yaspnlp
 ##Simple BotKit bot with NLP
 
 ###*Original blog post avaliable on Andrew Templeton's blog:* 
